@@ -29,7 +29,7 @@ A WindowsAPI-based Minecraft AFK program that can complete mouse / keyboard acti
 - 可以多开达到挂机完成多项操作的目的
   
 #### 我还是不懂具体如何操作怎么办？
-- 详细的教程请看我的 [MCBBS](https://www.mcbbs.net/thread-984834-1-1.html)<br>
+- 详细的教程请看我的 [MCBBS](https://www.mcbbs.net/thread-984834-1-1.html)，也可以看我博客中的 [项目说明](https://cheny.cc/post/Minecraft-AFK) <br>
 
 ## 关于反馈
 如果你发现了程序的bug，或者你有好的建议，你可以在 [Issues](https://github.com/Cheny233/Minecraft-AFK/issues) 中反馈
@@ -37,7 +37,7 @@ A WindowsAPI-based Minecraft AFK program that can complete mouse / keyboard acti
 ## 其他版本
 | 编写语言 | 项目地址 | 项目说明
 | ---- | ---- | ---- |
-| Python3 | [py-Minecraft-AFK](https://github.com/jinzhijie/py-Minecraft-AFK) | 由[jinzhijie](https://github.com/jinzhijie)和[CharlieYu4994](https://github.com/CharlieYu4994)共同维护重写的Python3版本
+| Python3 | [super-coffee/py-Minecraft-AFK](https://github.com/jinzhijie/py-Minecraft-AFK) | 由[jinzhijie](https://github.com/jinzhijie)和[CharlieYu4994](https://github.com/CharlieYu4994)共同维护重写的Python3版本
 
 ## Language localization
 We welcome your post-contribution to language localization. You can open a new [Pull Requests](https://github.com/Cheny233/Minecraft-AFK/pulls) to me.
